@@ -10,3 +10,7 @@ de la fórmula del harvesine, ya que como la tierra es esférica, la distancia �
 
 después php regresa la información del post, que como el query está limitado a 1 resultado, sólo será un centro el más cercano. Después pones un marcador en el mapa con esas latitudes
 y longitudes, el nombre del centro de acopio y listo
+
+lista de los centros de acopio:
+
+Mapeo Colaborativo Datos.gob.mx
